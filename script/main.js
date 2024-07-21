@@ -7,4 +7,4 @@ tasksController.loadingPage(window.location.search);
 
 
 
-localStorage.clear();
+// localStorage.clear();
