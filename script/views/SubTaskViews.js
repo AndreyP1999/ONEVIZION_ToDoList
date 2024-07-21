@@ -31,7 +31,7 @@ export class SubTaskViews{
         var image = document.createElement('img');
         image.className='heading__image';
         image.alt='Изменить заголовок';
-        image.src= window.location.origin+'/image/pencil.png';
+        image.src= './image/pencil.png';
 
         image.dataset.action='editTitle';
         image.dataset.text=title;
