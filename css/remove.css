@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: inherit;
+    color: inherit;
+}
+
+ol,ul{
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6{
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+input{
+    border: none;
+    outline: none;
+}
+
+/* button{
+    border: none;
+    outline: none;
+} */

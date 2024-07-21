@@ -1,0 +1,33 @@
+[
+    {
+        "id_MainTask": 1,
+        "id_SubTask": 1,
+        "subTask": "создать список задач",
+        "status": "done"
+    },
+    
+    {
+        "id_MainTask": 1,
+        "id_SubTask": 2,
+        "subTask": "создать форму для добавления задач",
+        "status": "done"
+    },
+    {
+        "id_MainTask": 1,
+        "id_SubTask": 3,
+        "subTask": "создать форму для удаления задач",
+        "status": "done"
+    },
+    {
+        "id_MainTask": 1,
+        "id_SubTask": 4,
+        "subTask": "создать форму для изменения задач",
+        "status": "todo"
+    },
+    {
+        "id_MainTask": 1,
+        "id_SubTask": 5,
+        "subTask": "выводить список задач в виде списка с кнопками для удаления и изменения",
+        "status": "todo"
+    }
+]

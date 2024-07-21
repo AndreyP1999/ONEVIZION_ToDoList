@@ -1,0 +1,23 @@
+.errorPage{
+    width: 100vw;
+    width: 100dvw;
+    height: 100vh;
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    gap: 2rem;
+    color: red;
+}
+.errorPage__Title{
+    font-size: 2rem;
+    text-align: center;
+}
+.errorPage__Message{
+    font-size: 1.5rem;
+    text-align: center;
+}
